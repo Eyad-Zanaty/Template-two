@@ -423,7 +423,7 @@ nav ul li:hover a{
 /* End Portfolio */
 /* Start Video */
 .video{
-    width: fit-content;
+    width: 100%;
     height: fit-content;
     position: relative;
 }
@@ -431,6 +431,7 @@ nav ul li:hover a{
     height: fit-content;
     width: fit-content;
     position: relative;
+    margin: auto;
 }
 .video video{
     width: 100%;
